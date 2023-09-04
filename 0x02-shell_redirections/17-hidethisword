@@ -1,0 +1,2 @@
+#!/bin/bass
+grep -v "bin" /etc/passwd
